@@ -1,0 +1,50 @@
+.card {
+    width:fit-content;
+}
+
+.btn-outline-primary {
+  color: #000000;
+  background-color: #CFCFCF;
+  border: none;
+}
+
+.card-header {
+  color: #3A3D3C;
+  background-color: #8E9190;
+}
+
+.container {
+  margin-left: 525px;
+}
+
+body {
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: 10px;
+}
+
+span {
+  display: none;
+  position: absolute;
+  left: 47.5%;
+  transform: translateX(-47.5%);
+  padding: 0;
+  font-weight: bold;
+}
+
+.addedButton {
+  color: #000000;
+  background-color: #CFCFCF;
+  border: none;
+  font-style: italic;
+  padding: 8px;
+  border-radius: 5px;
+  width: 224px;
+  display: block;
+  margin-left: 538px;
+  margin-top: 5px;
+}
+
+.addedButton:hover {
+  border-style: inset;
+}
